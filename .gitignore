@@ -1,0 +1,8 @@
+attached_assets/
+replit.md
+.replit
+node_modules/
+.env
+*.log
+.DS_Store
+.vscode/
